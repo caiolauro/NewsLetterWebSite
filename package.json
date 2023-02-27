@@ -1,0 +1,24 @@
+{
+  "name": "newsletterwebsite",
+  "version": "1.0.0",
+  "description": "A dynamic newsletter web site running POST requests to mailchimp servers in the backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiolauro/NewsLetterWebSite.git"
+  },
+  "author": "Caio Lauro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiolauro/NewsLetterWebSite/issues"
+  },
+  "homepage": "https://github.com/caiolauro/NewsLetterWebSite#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
