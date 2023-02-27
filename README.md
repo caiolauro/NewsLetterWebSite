@@ -1,6 +1,7 @@
 # NewsLetterWebSite
-A dynamic newsletter web site running POST requests to mailchimp servers in the backend.
+A newsletter web site deployed with Heroku running POST requests to mailchimp servers in the backend.
 
+![Alt Text](images/NewsLetterSignUpProject.png)
 
 # References
 
